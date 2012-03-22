@@ -1,4 +1,4 @@
-This is a sample project students can use during Tim's Git class.
+This is a sample project students can use during Tim's sooper aweXome Git class.
 
 We can have a bit of fun with this repo, knowing that we can always reset it to a known good state.  We can apply labels, and branch, then add new code and merge it in to the master branch.
 
